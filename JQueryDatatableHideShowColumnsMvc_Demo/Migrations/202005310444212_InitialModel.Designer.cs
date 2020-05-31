@@ -13,7 +13,7 @@ namespace JQueryDatatableHideShowColumnsMvc_Demo.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202005301143355_InitialModel"; }
+            get { return "202005310444212_InitialModel"; }
         }
         
         string IMigrationMetadata.Source
